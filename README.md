@@ -3,11 +3,11 @@
 ![Banner](https://github.com/patilyash8076/patilyash8076/blob/main/Make%20your%20README_yash.png?raw=true)
 ## 📖 About Me
 
-- 🔭 I recently worked on a project called **StrokeDetect**, which uses advance machine learning to predict stroke risks.
+- 🔭 I recently worked on a project called **StrokeDetect**, which uses advanced machine learning to predict stroke risks.
 - 🌱 I’m currently mastering **Data Science** at the University at Buffalo, aiming to graduate in May 2024 with a GPA of 3.69.
-- 👯 I'm open to collaborating on projects involving **data analysis, machine learning**, or any innovative software development ideas.
+- 👯 I'm open to collaborating on projects involving **data analysis, building data pipelines, machine learning**, or any innovative software development ideas.
 - 💬 Ask me about anything related to **Python, R, SQL, MongoDB, Postgres, Data Visualisation, PowerBI, Tableau, Data Science**, and **Machine Learning, LLms, GenAI**.
-- 📫 How to reach me: [yashmadh@buffalo.edu](mailto:yashmadh@buffalo.edu) | [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn)](linkedin.com/in/yash-madhukar-patil)
+- 📫 How to reach me: [yashmpatil57@gmail.com](mailto:yashmpatil57@gmail.com) | [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn)](linkedin.com/in/yash-madhukar-patil)
 - 😄 Pronouns: He/Him.
 - ⚡ Fun fact: I'm an avid reader and love exploring new technologies.
 
@@ -17,10 +17,10 @@
 - **Bachelor of Engineering in Computer Science**, Pune University, India (Aug 2017 - Jun 2021, GPA: 3.80)
 
 ## 💼 Experience
-
-- **Data Analyst**, CompuCom Systems Pvt. Ltd, Pune India (Dec 2021 - Dec 2022)
-- **Data Analyst Intern**, Verificient Technologies Pvt. Ltd, Pune India (April 2020 - June 2020)
-- **Software Developer Intern**, Zensar Technologies Pvt. Ltd, Pune India (Dec 2019 - Feb 2020)
+- **Data Scientist**, CrowdDoing (July 2024 - Present)
+- **GenAI Research Assistant**, University at Buffalo (March 2024 - Present)
+- **Data Engineer**, CompuCom Systems Pvt. Ltd, Pune India (December 2021 - December 2022)
+- **Data Analyst**, Verificient Technologies Pvt. Ltd, Pune India (April 2020 - June 2020)
 
 ## 🛠 Skills
 
