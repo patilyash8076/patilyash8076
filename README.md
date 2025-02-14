@@ -17,10 +17,9 @@
 - **Bachelor of Engineering in Computer Science**, Pune University, India (Aug 2017 - Jun 2021, GPA: 3.80)
 
 ## 💼 Experience
-- **Data Scientist**, CrowdDoing (July 2024 - Present)
-- **GenAI Research Assistant**, University at Buffalo (March 2024 - Present)
-- **Data Engineer**, CompuCom Systems Pvt. Ltd, Pune India (December 2021 - December 2022)
-- **Data Analyst**, Verificient Technologies Pvt. Ltd, Pune India (April 2020 - June 2020)
+- **Data Scientist**, Johnson & Johnson, USA (Feb 2024 - Present)
+- **GenAI Research Assistant**, University at Buffalo (Aug 2024 - Present)
+- **Data Scientist**, Freshwork Inc, India (Jan 2020 - Dec 2022)
 
 ## 🛠 Skills
 
